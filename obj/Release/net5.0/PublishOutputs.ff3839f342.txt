@@ -1,0 +1,13 @@
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\FilesUploadApi.exe
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\appsettings.Development.json
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\appsettings.json
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\FilesUploadApi.dll
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\FilesUploadApi.deps.json
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\FilesUploadApi.runtimeconfig.json
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\FilesUploadApi.pdb
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\DBreeze.dll
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\Microsoft.OpenApi.dll
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\Newtonsoft.Json.dll
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
