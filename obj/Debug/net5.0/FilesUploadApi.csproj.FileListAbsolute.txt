@@ -29,3 +29,8 @@ C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\obj\Debug\net5.0\
 C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\obj\Debug\net5.0\FilesUploadApi.genruntimeconfig.cache
 C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\bin\Debug\net5.0\DBreeze.dll
 C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\bin\Debug\net5.0\publish\web.config
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\bin\Debug\net5.0\publish\FilesUploadApi.deps.json
+C:\Users\Uche Victor\Code Hub\DotNet\FileUpload\FilesUploadApi\bin\Debug\net5.0\publish\FilesUploadApi.runtimeconfig.json

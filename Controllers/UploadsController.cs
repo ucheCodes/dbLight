@@ -23,6 +23,10 @@ namespace FilesUploadApi.Controllers
         public JsonResult SaveFile()
         {
             string photoPath = Path.Combine((string)AppDomain.CurrentDomain.GetData("ContentRootPath"),("Files"));
+            if (!Directory.Exists(photoPath))
+            {
+                Directory.CreateDirectory(photoPath);
+            }
             FilesInfo info = new FilesInfo();
             try
             {
